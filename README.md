@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">A junior full stack developer living in the Netherlands</h3>
+<h1>Hi 👋, I'm Cristian</h1>
+<h3>A junior full stack developer living in the Netherlands</h3>
 
-- 🌱 I’m currently deepening my understanding of **Ruby on Rails,JavaScript and CSS**
+- 🌱 I’m currently deepening my understanding of **Ruby on Rails, JavaScript and CSS**
 
 - 📫 Contact me at: **crisgoera@gmail.com**
 
